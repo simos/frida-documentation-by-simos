@@ -53,7 +53,9 @@ The documentation should cater the following groups of users
 * Installation, general instructions for Windows/Linux/OSX, individual articles for each major OS version, with Troubleshooting section and verification examples that it was installed successfully. The individual articles are there so they can be picked by search engines and used by new users.
 * Reference article: What are those different packages in the assets, https://github.com/frida/frida/releases (i.e. _code devkit_, _gum devkit_,...)
 * Android: how to setup Frida on a rooted phone
-* Android: how to inject the Gadget in the APK, how to get the APK from the phone in the first place.
+* Android: how to inject the Gadget in the APK, how to get the APK from the phone in the first place. [Use apk.sh](https://github.com/ax/apk.sh).
+* Code Share: Explain how to use https://codeshare.frida.re/, how to contribute, 
+* Desktop: Show how to use Frida on the three major desktops.
 * _TODO_
 
 ## TODO
