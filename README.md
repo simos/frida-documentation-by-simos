@@ -19,6 +19,7 @@ The site has online documentation (HTML) and the book is accessible liberally fr
 1. Users can get [Frida support on IRC/Freenode #frida](https://frida.re/contact/). Less than ten people on the channel, probably inactive due to the split between Freenode and Libera.
 1. There is a #frida channel on Libera Chat. There were 13 users on that channel when I visited. The existence of the channel is not listed on the frida.re website yet.
 1. [Github Issues on github/frida/frida](https://github.com/frida/frida/issues). The Github Issues are (ab)used as a help venue.
+1. [Discord Frida Server](https://discord.gg/J7VCWhZQ5N). 180 members, 40 online when I last visited (EU timezone).
 
 ## Rationale (for the update of the Frida documentation)
 
